@@ -25,4 +25,4 @@ $ npm start # or yarn start
 2. Simply add task 
 3. To delete click on the added task.
 
-<img src="" />
+<img src="https://github.com/mchourishi/react-todo/blob/master/public/screenshots/add_todo.png" />
